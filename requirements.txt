@@ -1,5 +1,7 @@
 click==8.0.3
 Flask==2.0.2
+Flask-Admin==1.5.8
+Flask-Login==0.5.0
 Flask-SQLAlchemy==2.5.1
 gunicorn==20.1.0
 itsdangerous==2.0.1
@@ -16,6 +18,8 @@ six==1.16.0
 sklearn==0.0
 SQLAlchemy==1.4.29
 Werkzeug==2.0.2
+plotly==5.5.0
+PyGreSQL==5.2.2
 
 
 
